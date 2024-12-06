@@ -14,3 +14,16 @@
     font-size: 1.3em;
     font-weight: 800;
 }
+
+.outlined{
+    color: white;
+    text-shadow:
+      -1px -1px 0 rgb(130, 130, 130),
+       0   -1px 0 rgb(130, 130, 130),
+       1px -1px 0 rgb(130, 130, 130),
+       1px  0   0 rgb(130, 130, 130),
+       1px  1px 0 rgb(130, 130, 130),
+       0    1px 0 rgb(130, 130, 130),
+      -1px  1px 0 rgb(130, 130, 130),
+      -1px  0   0 rgb(130, 130, 130);
+  }
